@@ -47,7 +47,7 @@ Table of contents
 <!--te-->
 
 
-Installation
+Installation1
 ============
 
 Linux (manual installation)
