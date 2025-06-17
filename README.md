@@ -29,7 +29,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Installation](#installation)
+   * [Installation1](#installation)
    * [Usage](#usage)
       * [STDIN](#stdin)
       * [Local files](#local-files)
